@@ -1,10 +1,11 @@
 int r, g, b;
 int d;
 int t;
+//PImage capture;
 
 void setup() {
   background(255);
-  size(1500, 900);
+  size(1920, 1280);
   frameRate(999999999);
 
   d=30;
@@ -88,6 +89,10 @@ void paintBrush() {
     {
       t++;
     }
+    //if (key =='p')
+    //{
+      //capture.save("capture.jpg");
+    //}
   }
 }
 // instructions: use click and drag the mouse to use the brush
