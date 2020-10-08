@@ -98,3 +98,4 @@ void paintBrush() {
 //               press the 'y' key to increase opacityy of the brush and 't' to decrease it
 //               press the 'n' key to set brush to default black and 'm' to change the brush to white
 //               press the 'q' key to reset the background to white
+//
